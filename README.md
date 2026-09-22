@@ -44,7 +44,7 @@ Clone the repository and run the server from the directory you want to
 serve:
 
 ```bash
-git clone <your-repo-url> Python-Basic-File-Server
+git clone git@github.com:Ren-B-7/Python-Basic-File-Server.git
 cd Python-Basic-File-Server
 python3 main.py [port]
 ```
